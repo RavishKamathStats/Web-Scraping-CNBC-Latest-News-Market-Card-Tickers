@@ -1,5 +1,5 @@
 import csv
-# import lxml
+import lxml
 import os
 from bs4 import BeautifulSoup
 
